@@ -69,15 +69,15 @@ wheels = [
 
 [[package]]
 name = "appkit-ui"
-version = "0.10.0"
+version = "0.9.0"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "appkit-mantine" },
     { name = "reflex" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/65/54/bff028af969d614416ae43a5345ad3e5020235e7ec390a57de699e5c68d0/appkit_ui-0.10.0.tar.gz", hash = "sha256:10f6556a5bfe76bffb5fab2b4fa4d9e3e5d8ee95fb4f94c3379ef3db637c10c9", size = 11954, upload-time = "2025-12-14T14:20:27.371Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/bc/82/d02f02426e5b144862cbe1e810d842fd4eea8d270b35f681d5f80ef673ee/appkit_ui-0.9.0.tar.gz", hash = "sha256:677385018271d9be5937bb8b4e5d306aca7d48ec17eefddcc3103a396e948b13", size = 11946, upload-time = "2025-11-30T19:33:02.532Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/66/d1/fb17cc4f97d395909a1667c1ec6d76d465aec6f01dbc24c4feace2fd2afd/appkit_ui-0.10.0-py3-none-any.whl", hash = "sha256:75e6e6d95da19a78b270a5e021f1cc3a27202304ca6ff4c2c3dcc26913ce3e10", size = 13922, upload-time = "2025-12-14T14:20:25.402Z" },
+    { url = "https://files.pythonhosted.org/packages/a1/df/c19c8531be1df98109255bd18d9dc64327e252e85d8177631dfb8bfef488/appkit_ui-0.9.0-py3-none-any.whl", hash = "sha256:9a3db45c9b7503cef21a86003048828017cfa7e4e16894b244900274da6d4bca", size = 13913, upload-time = "2025-11-30T19:32:55.962Z" },
 ]
 
 [[package]]
@@ -994,7 +994,7 @@ wheels = [
 
 [[package]]
 name = "reflex"
-version = "0.8.22"
+version = "0.8.24.post1"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "alembic" },
@@ -1015,9 +1015,9 @@ dependencies = [
     { name = "typing-extensions" },
     { name = "wrapt" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/d3/b1/7f0d739783edaa6022790a55af38b870cb15f25f04743dd3c73479f3c0b6/reflex-0.8.22.tar.gz", hash = "sha256:4636b6318521ef0f74c40e884dcc1b93792c29dea11fe6706ac30e3fde4fb146", size = 563768, upload-time = "2025-12-09T21:10:08.85Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/0b/5f/f9d4880d8de98f7faaf987550384bce52871bf6dd5ae9bd3992f6120578e/reflex-0.8.24.post1.tar.gz", hash = "sha256:a016e844846ffc5ef460ed098a17bcf02b11acc9b15192fa234f29294586b080", size = 571019, upload-time = "2025-12-22T20:22:24.499Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/0b/99/89d4983201d060c722a15c2194df24532cc7f44c041fa3b2dbf44ef7fa45/reflex-0.8.22-py3-none-any.whl", hash = "sha256:088a35b509f784280c697ccf4c428be894c8d9d9d7a458a525f06c86d496c9c9", size = 805020, upload-time = "2025-12-09T21:10:06.621Z" },
+    { url = "https://files.pythonhosted.org/packages/73/ba/2ef17f78a5fcea091fb509a550ae03a93515cd774f969ae89a8b51025e1f/reflex-0.8.24.post1-py3-none-any.whl", hash = "sha256:c1023a754d0eee1161351688dbf9e05d11f570c082859e34c03e354d324deb58", size = 813241, upload-time = "2025-12-22T20:22:26.113Z" },
 ]
 
 [[package]]
