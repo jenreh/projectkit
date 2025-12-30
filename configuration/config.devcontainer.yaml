@@ -14,7 +14,7 @@ app:
     host: db
     port: 5432
     echo: True
-    name: appkit-db
+    name: projectkit-db
 
   authentication:
     server_url: http://localhost
